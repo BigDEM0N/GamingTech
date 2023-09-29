@@ -1,5 +1,6 @@
 # GamingTech
 A forum for players to communicate and show their experience while playing.
+<<<<<<< HEAD
 
 ## 9.29 项目目标
 
